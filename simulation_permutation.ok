@@ -1,0 +1,14 @@
+{
+  "name": "Simulation permutation",
+  "src": [
+    "simulation_permutation.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
